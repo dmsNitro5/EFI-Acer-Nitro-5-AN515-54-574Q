@@ -6,12 +6,14 @@
 
 ![image](https://user-images.githubusercontent.com/100491103/155861116-acf99cd9-de80-401c-babf-6112921073de.jpg)
 
+![image](https://user-images.githubusercontent.com/100491103/155904432-c92d2f7d-3070-4745-9672-e50a0a7b9c2e.jpg)
+
 
 <table>
 
 <tr>
 <th align="left">Model</th>
-<th align="left">AN515-54-574Q</th>
+<th align="left">Acer Nitro 5 AN515-54-574Q</th>
 </tr>
 </thead>
 <tbody>
