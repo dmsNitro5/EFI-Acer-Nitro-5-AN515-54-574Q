@@ -1,9 +1,10 @@
-<p dir="auto"><a href="https://www.apple.com.cn/macos/catalina/" rel="nofollow"><img src="https://camo.githubusercontent.com/81cc5434534442b0d46dcaa80a1e79b4f9af4a43f08c23c523a1deef45972f1b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d61634f532d31302e31352e352d6f72616e6765" alt="macOS" data-canonical-src="https://img.shields.io/badge/macOS-11.6.4-orange" style="max-width: 100%;"></a>
-<a href="https://github.com/acidanthera/OpenCorePkg"><img src="https://camo.githubusercontent.com/66ec8a1ccb4d11f4c0c238dbe44e1cfb936c0b6189b47832c394307803c353e4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f70656e436f72652d302e352e392d396366" alt="OpenCore" data-canonical-src="https://img.shields.io/badge/OpenCore-0.5.9-9cf" style="max-width: 100%;"></a>
+![Profile View Counter](https://komarev.com/ghpvc/?username=dmsNitro5)
 
 <h1 dir="auto"><a id="user-content-acer-nitro-5-an515-54-hackintosh" class="anchor" aria-hidden="true" href="#acer-nitro-5-an515-54-hackintosh"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Acer Nitro 5 AN515-54-574Q - Hackintosh</h1>
 
 <h4 dir="auto"><a id="user-content-running-macos-monterey-1201" class="anchor" aria-hidden="true" href="#running-macos-monterey-1201"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Rodando macOS BIGSUR 11.6.4</h4>
+
+<img src="https://img.shields.io/badge/macOS%20Big%20Sur-11.6.4-red" /> <img src="https://img.shields.io/badge/Opencore-0.7.8-brightgreen" />
 
 ![image](https://user-images.githubusercontent.com/100491103/155861116-acf99cd9-de80-401c-babf-6112921073de.jpg)
 
@@ -104,6 +105,14 @@
 <li>Thanks to <a href="https://github.com/daliansky">daliansky</a> for <a href="https://github.com/daliansky/OC-little">ACPI Hotpatch Samples for the OpenCore Bootloader</a>.</li>
 <li>Thanks to <a href="https://github.com/alexandred">alexandred</a> for <a href="https://github.com/alexandred/VoodooI2C">VoodooI2C</a>.</li>
 <li>Thanks to <a href="https://github.com/corpnewt">corpnewt</a> for <a href="https://github.com/corpnewt/GenSMBIOS">GenSMBIOS</a>.</li>
+  <p></p>
+  <p></p>
+  
+
+ 
+  <a href="mailto:dmsnitro5@gmail.com" alt="gmail" target="_blank">
+<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:mailto:dmsnitro5@gmail.com" />
+</a>
 
 
 
