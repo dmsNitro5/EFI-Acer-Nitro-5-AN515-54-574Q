@@ -109,6 +109,7 @@
 <li>Thanks to <a href="https://github.com/daliansky">daliansky</a> for <a href="https://github.com/daliansky/OC-little">ACPI Hotpatch Samples for the OpenCore Bootloader</a>.</li>
 <li>Thanks to <a href="https://github.com/alexandred">alexandred</a> for <a href="https://github.com/alexandred/VoodooI2C">VoodooI2C</a>.</li>
 <li>Thanks to <a href="https://github.com/corpnewt">corpnewt</a> for <a href="https://github.com/corpnewt/GenSMBIOS">GenSMBIOS</a>.</li>
+<li>Thanks to <a href="">MaLd0n</a> for <a href="https://www.olarila.com/">Olarila</a>.</li>
   <p></p>
   <p></p>
   
