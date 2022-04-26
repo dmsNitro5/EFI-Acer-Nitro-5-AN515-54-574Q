@@ -50,7 +50,7 @@
 </tr>
 <tr>
 <td align="left">OpenCore Version</td>
-<td align="left">0.7.8</td>
+<td align="left">0.7.8 / 0.8.0</td>
 </tr>
 </tbody>
 </table>
